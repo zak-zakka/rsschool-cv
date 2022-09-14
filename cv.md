@@ -98,7 +98,8 @@ console.log(3, str);
 ### Education
 
 * 2001, Magnitogorsk State Technical University, composite materials engineer
-  + Graduate research work “Rheological model of non-compact plastic masses extrusion: Tensor analysis”
+  
+  Graduate research work “Rheological model of non-compact plastic masses extrusion: Tensor analysis”
 * 2010 Course Microsoft Server Virtualization: Architecture
 * 2011 Intermediate English Language
 * 2015 RH254 Red Hat - System Administration III
