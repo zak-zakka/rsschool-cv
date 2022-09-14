@@ -13,7 +13,7 @@ Discord: @zakka#4684
 
 07/28/1979
 
-## Looking for a job where I can improve my development or devops skills.
+## I'm Looking for a job where I can improve my development or devops skills.
 It could be JS/FE Engineer, SRE, DevOps, QA, Big Data Engineer, Data Scientist or Statistical Analyst position
 
 ### Skills
@@ -41,12 +41,14 @@ console.log(3, str);
 ### Same Code from Codewars
 [`https://www.codewars.com/kata/reviews/52fba700adcd10b182000980/groups/63223350b2d37c0001f3a40f`](https://www.codewars.com/kata/reviews/52fba700adcd10b182000980/groups/63223350b2d37c0001f3a40f "Link to my code at Codewars")
 
+---
+
 ### Work expirience
 
 **February 2015 - present** PJSC Megafon SZF, Senior Ops Engineer
 
 * Develop and maintain the mobile operator telematic services
-  + These are services that affect subscribers' SMS traffic or provide information via SMS. 
+  - These are services that affect subscribers' SMS traffic or provide information via SMS. 
 * Traffic management at the network, session and application interaction levels (http-api)
 * Deployment CentOS/RockyLinux based servers
 * Setting up High Availability clusters (VMWare, Ovirt)
@@ -91,6 +93,8 @@ console.log(3, str);
 * Writing reports, articles, presentations.
 * Speaking at international conferences and seminars
 
+---
+
 ### Education
 
 * 2001, Magnitogorsk State Technical University, composite materials engineer
@@ -105,8 +109,10 @@ console.log(3, str);
 * Able to speak simple or tech topics
 * Have some expirience at conference and negotiations
 
+---
+
 ### A little about myself
 
-I am grateful to the Novosibirsk Akademgorodok for giving me a natural-scientific view of the world and the optimism in the endless process of cognition.
+>I am grateful to the Novosibirsk Akademgorodok for giving me a natural-scientific view of the world and the optimism in the endless process of cognition.
 
 I like to travel by car, robots, hiking, avant-garde visual arts and architecture, classical and electronic music, jazz and progressive rock. I love nature and animals.
